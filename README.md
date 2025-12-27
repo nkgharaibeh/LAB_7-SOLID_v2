@@ -117,26 +117,7 @@ Interfaces are the entry point to all of these patterns.
   - `Ex06_ILogger_DIP`
   - `Ex07_Accounts_Abstract_Interface`
 
-> Tip: Do NOT upload `bin/` or `obj/` folders. Use `.gitignore`.
-
----
-
-## How to Run
-1. Open the `.sln` in Visual Studio
-2. Right-click any project → **Set as Startup Project**
-3. Run
-
----
-
-## Student Submission Workflow (GitHub)
-1. Create a GitHub account
-2. Create a new repository named: `CSharp_Labs_<YourName>`
-3. Upload your lab folder
-4. Commit changes with clear messages:
-   - `Add Lab7 interfaces examples`
-   - `Implement BankingSystem assignment`
-5. Submit the repository link
-
+ 
 ---
 
 ## Final Message
